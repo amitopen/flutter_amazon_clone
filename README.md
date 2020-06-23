@@ -17,5 +17,5 @@ samples, guidance on mobile development, and a full API reference.
 
 
 <p>
-  20200623_134124.mp4
+  <img src="20200623_134124.mp4">
   </p>
