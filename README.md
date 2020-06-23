@@ -17,7 +17,7 @@ samples, guidance on mobile development, and a full API reference.
 
 
 <p>
-  <video>
+  <video width="320" height="240" controls>
     <source src="20200623_134124.mp4" type="video/mp4">
   </video>
   </p>
