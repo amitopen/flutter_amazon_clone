@@ -22,7 +22,5 @@ samples, guidance on mobile development, and a full API reference.
   <hr>
   <img src="Screenshot_20200623-135544.png" height="600px"> <br>
 
-  <video width="320" height="240" controls>
-    <source src="20200623_134124.mp4" type="video/mp4">
-  </video>
+ [![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/FOiJ3K15dDM)
   </p>
