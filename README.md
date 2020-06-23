@@ -19,6 +19,7 @@ samples, guidance on mobile development, and a full API reference.
 <p>
   
   <img src="Screenshot_20200623-135535.png" height="600px"> <br>
+  <hr>
   <img src="Screenshot_20200623-135544.png" height="600px"> <br>
 
   <video width="320" height="240" controls>
