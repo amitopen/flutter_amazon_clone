@@ -17,5 +17,7 @@ samples, guidance on mobile development, and a full API reference.
 
 
 <p>
-  <img src="20200623_134124.mp4">
+  <video>
+    <source src="20200623_134124.mp4" type="video/mp4">
+  </video>
   </p>
