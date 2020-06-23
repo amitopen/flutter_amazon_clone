@@ -22,5 +22,6 @@ samples, guidance on mobile development, and a full API reference.
   <hr>
   <img src="Screenshot_20200623-135544.png" height="600px"> <br>
 
- [![Watch the video]](https://youtu.be/FOiJ3K15dDM)
+https://youtu.be/FOiJ3K15dDM
+
   </p>
